@@ -17,6 +17,8 @@ public class ModItemGroups {
                         entries.add(ModItems.CHICKEN_BONE);
                         entries.add(ModItems.CHICKEN_CHUNK);
                         entries.add(ModItems.CHICKEN_NUGGET);
+                        entries.add(ModItems.COOKED_CHICKEN_NUGGET);
+                        entries.add(ModItems.COOKED_CHICKEN_CHUNK);
 
                     }).build());
 

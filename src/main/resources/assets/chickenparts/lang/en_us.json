@@ -2,6 +2,8 @@
   "item.chickenparts.chicken_bone": "Chicken Bone",
   "item.chickenparts.chicken_chunk": "Chicken Chunk",
   "item.chickenparts.chicken_nugget": "Chicken Nugget",
+  "item.chickenparts.cooked_chicken_chunk": "Cooked Chicken Chunk",
+  "item.chickenparts.cooked_chicken_nugget": "Cooked Chicken Nugget",
 
   "itemgroup.chicken_core": "Chicken Core"
 }
