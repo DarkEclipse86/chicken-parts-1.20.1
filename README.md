@@ -35,6 +35,6 @@ Equip your spell book to use its content with a wand or staff.
 Spell casting mechanics and HUD can be configured under Mod Menu / Spell Engine / Settings.
 
 🤝 Integrations
-☑️ RPG Series
-✅ Better Combat
-✅ ChickenChest Revamped 
+- ☑️ RPG Series
+- ✅ Better Combat
+- ✅ ChickenChest Revamped 
