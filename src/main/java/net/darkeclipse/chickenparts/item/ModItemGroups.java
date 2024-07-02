@@ -10,9 +10,9 @@ import net.minecraft.text.Text;
 import net.minecraft.util.Identifier;
 
 public class ModItemGroups {
-    public static final ItemGroup CHICKEN_CORE = Registry.register(Registries.ITEM_GROUP,
+    public static final ItemGroup CHICKEN_PARTS = Registry.register(Registries.ITEM_GROUP,
             new Identifier(ChickenParts.MOD_ID, "chicken_bone"),
-            FabricItemGroup.builder().displayName(Text.translatable("itemgroup.chicken_core"))
+            FabricItemGroup.builder().displayName(Text.translatable("itemgroup.chicken_parts"))
                     .icon(() -> new ItemStack(ModItems.CHICKEN_BONE)).entries((displayContext, entries) -> {
                         entries.add(ModItems.CHICKEN_BONE);
                         entries.add(ModItems.CHICKEN_CHUNK);
