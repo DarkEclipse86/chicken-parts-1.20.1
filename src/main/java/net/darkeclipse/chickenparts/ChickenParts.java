@@ -2,6 +2,7 @@ package net.darkeclipse.chickenparts;
 
 import net.darkeclipse.chickenparts.item.ModItemGroups;
 import net.darkeclipse.chickenparts.item.ModItems;
+import net.darkeclipse.chickenparts.util.ModLootTableModifiers;
 import net.fabricmc.api.ModInitializer;
 
 import org.slf4j.Logger;
@@ -21,6 +22,8 @@ public class ChickenParts implements ModInitializer {
 		// Proceed with mild caution.
 		ModItemGroups.registerItemGrups();
 		ModItems.registerModItems();
+		ModLootTableModifiers.modifyLootTables();
+
 		LOGGER.info("Hello Fabric world!");
 	}
 }

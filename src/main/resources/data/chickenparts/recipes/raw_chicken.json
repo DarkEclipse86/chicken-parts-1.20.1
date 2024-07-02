@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "food",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "chickenparts:chicken_nugget"
+    }
+  },
+  "result": {
+    "item": "minecraft:chicken"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "chickenparts:chicken_nugget"
+    }
+  },
+  "result": {
+    "item": "chickenparts:chicken_chunk"
+  }
+}

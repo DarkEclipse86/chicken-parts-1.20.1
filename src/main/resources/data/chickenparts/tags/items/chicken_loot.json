@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "chickenparts:chicken_bone",
+    "chickenparts:chicken_chunk",
+    "chickenparts:chicken_nugget",
+    "minecraft:chicken",
+    "minecraft:feather"
+  ]
+}
