@@ -14,8 +14,9 @@ public class ModItemGroups {
             new Identifier(ChickenParts.MOD_ID, "chicken_bone"),
             FabricItemGroup.builder().displayName(Text.translatable("itemgroup.chicken_core"))
                     .icon(() -> new ItemStack(ModItems.CHICKEN_BONE)).entries((displayContext, entries) -> {
-                        entries.add(ModItems.CHICKEN_CHUNK);
                         entries.add(ModItems.CHICKEN_BONE);
+                        entries.add(ModItems.CHICKEN_CHUNK);
+                        entries.add(ModItems.CHICKEN_NUGGET);
 
                     }).build());
 
