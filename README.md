@@ -5,5 +5,9 @@
  - Chicken Chunk
  - Chicken Nugget
 
-| Oh and a useful addition too:
+| Cooked Versions:
+ - Cooked Chicken Nugget
+ - Cooked Chicken Chunk
+
+| An useful addition too:
  - Cloth (Block of Feathers)
