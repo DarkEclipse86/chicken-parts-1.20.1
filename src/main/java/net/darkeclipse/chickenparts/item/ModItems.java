@@ -12,9 +12,11 @@ import net.minecraft.util.Identifier;
 
 public class ModItems {
     public static final Item CHICKEN_BONE = registerItem("chicken_bone", new Item(new FabricItemSettings()));
+    public static final Item CHICKEN_CHUNK = registerItem("chicken_chunk", new Item(new FabricItemSettings()));
 
     private static void  addItemsToIngredientItemGroup(FabricItemGroupEntries entries) {
         entries.add(CHICKEN_BONE);
+        entries.add(CHICKEN_CHUNK);
     }
 
     private static Item registerItem(String name, Item item) {

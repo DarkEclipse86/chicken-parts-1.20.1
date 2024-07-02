@@ -1,3 +1,6 @@
 {
-  "item.chickenparts.chicken_bone": "Chicken Bone"
+  "item.chickenparts.chicken_bone": "Chicken Bone",
+  "item.chickenparts.chicken_chunk": "Chicken Chunk",
+
+  "itemgroup.chicken_core": "Chicken Core"
 }
