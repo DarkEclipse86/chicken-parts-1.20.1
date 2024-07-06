@@ -1,6 +1,7 @@
 package net.darkeclipse.chickenparts.item;
 
 import net.darkeclipse.chickenparts.ChickenParts;
+import net.darkeclipse.chickenparts.block.ModBlocks;
 import net.fabricmc.fabric.api.itemgroup.v1.FabricItemGroup;
 import net.minecraft.item.ItemGroup;
 import net.minecraft.item.ItemStack;
@@ -19,6 +20,7 @@ public class ModItemGroups {
                         entries.add(ModItems.CHICKEN_NUGGET);
                         entries.add(ModItems.COOKED_CHICKEN_NUGGET);
                         entries.add(ModItems.COOKED_CHICKEN_CHUNK);
+                        entries.add(ModBlocks.CLOTH);
 
                     }).build());
 
